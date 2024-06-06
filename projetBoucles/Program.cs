@@ -37,7 +37,7 @@ class Program
             {
                 {
                     Console.WriteLine("Pas : " +moves[j]);
-                }
+                                    }
             }
         }
     }
